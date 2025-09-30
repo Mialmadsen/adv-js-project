@@ -41,8 +41,6 @@ const registerUser = () => {
     register(regEmail.value, regPassword.value)
 }
 
-
-
 </script>
 
 <style>
