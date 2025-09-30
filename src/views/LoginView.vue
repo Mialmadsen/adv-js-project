@@ -44,7 +44,6 @@ const registerUser = () => {
 </script>
 
 <style>
-
 .login-view {
     max-width: 400px;
     margin: 20px auto;
